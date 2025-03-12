@@ -1,4 +1,6 @@
-## Hi there 👋
+# Hello Have a Good Day
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=SaintFore&theme=dark&exclude_days=Sun&background=800000&border=982B1C&stroke=DAD4B5&ring=F2E8C6)](https://git.io/streak-stats)
 
 <!--
 **SaintFore/SaintFore** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
