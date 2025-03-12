@@ -161,7 +161,7 @@
 <br/>
 
 <div align="center">
-  <img src="https://github.com/SaintFore/GitHubSNK/blob/output/ocean.gif"/>
+  <img src="https://github.com/SaintFore/GitHubSNK/blob/output/github-snake-dark.svg"/>
 </div>
 
 
