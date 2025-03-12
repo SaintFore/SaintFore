@@ -155,10 +155,14 @@
 </br>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SaintFore&custom_title=Merlin's%20Contribution%20Graph&bg_color=1A1B27&color=FFFFFF&line=70A4FC&point=FFFFFF&hide_border=true" width="94%" alt="activity graph">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SaintFore&custom_title=Merlin's%20Contribution%20Graph&bg_color=1A1B27&color=FFFFFF&line=70A4FC&point=FFFFFF&hide_border=true" width="94%" alt="activity graph"/>
 </div>
 
+<br/>
 
+<div align="center">
+  <img src="https://github.com/SaintFore/GitHubSNK/blob/output/ocean.gif"/>
+</div>
 
 
 
