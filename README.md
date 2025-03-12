@@ -1,6 +1,7 @@
-# Hello Have a Good Day
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Emblema+One&pause=1000&color=FFE6E6&center=true&vCenter=true&width=435&lines=Hello%2C+I+am+Merlin!;Have+a+Good+Day!" alt="Typing SVG" /></a>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=SaintFore&theme=dark&exclude_days=Sun&background=800000&border=982B1C&stroke=DAD4B5&ring=F2E8C6" alt="GitHub Streak" /></a>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=SaintFore&theme=dark&exclude_days=Sun&background=800000&border=982B1C&stroke=DAD4B5&ring=F2E8C6)](https://git.io/streak-stats)
+
 
 <!--
 **SaintFore/SaintFore** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
