@@ -1,5 +1,6 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Emblema+One&pause=1000&color=FFE6E6&center=true&vCenter=true&width=435&lines=Hello%2C+I+am+Merlin!;Have+a+Good+Day!" alt="Typing SVG" /></a>
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=SaintFore&theme=dark&exclude_days=Sun&background=800000&border=982B1C&stroke=DAD4B5&ring=F2E8C6" alt="GitHub Streak" /></a>
+<div align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Emblema+One&pause=1000&color=FFE6E6&center=true&vCenter=true&width=435&lines=Hello%2C+I+am+Merlin!;Have+a+Good+Day!" alt="Typing SVG" /></a></div>
+<div align="center"><a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=SaintFore&theme=dark&exclude_days=Sun&background=800000&border=982B1C&stroke=DAD4B5&ring=F2E8C6" alt="GitHub Streak" /></a></div>
+<div align="center"><img href="https://github-readme-stats.vercel.app/api?username=SaintFore&show_icons=true&theme=gruvbox"/></div>
 
 
 
