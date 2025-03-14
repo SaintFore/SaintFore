@@ -149,7 +149,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SaintFore&theme=tokyonight&hide_border=true&background=1A1B27&stroke=70A4FC&fire=70A4FC&currStreakNum=FFFFFF&sideNums=FFFFFF&ring=70A4FC" width="94%" alt="streak stats"/>
+  <img src="https://streak-stats.demolab.com?user=SaintFore" width="93%" alt="GitHub Streak" />
 </div>
 
 </br>
