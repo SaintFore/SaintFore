@@ -90,7 +90,6 @@
   </tr>
 </table>
 
-<!-- 项目展示 
 <h2 align="center">🏆 Featured Projects</h2>
 
 <div align="center">
@@ -106,35 +105,16 @@
         </div>
       </td>
       <td width="50%">
-        <h3 align="center">Smart Home Controller</h3>
+        <h3 align="center">BlogEt</h3>
         <div align="center">
-          <a href="https://github.com/SaintFore/smart-home-app" target="_blank">
-            <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=SaintFore&repo=smart-home-app&theme=react&hide_border=true" alt="Smart Home Controller"/>
+          <a href="https://github.com/SaintFore/BlogEt" target="_blank">
+            <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=SaintFore&repo=BlogEt&theme=react&hide_border=true" alt="BlogEt"/>
           </a>
           <p><strong>React Native, IoT, Firebase</strong> - Cross-platform app for controlling smart home devices with voice commands and automation.</p>
         </div>
       </td>
     </tr>
-    <tr>
-      <td width="50%">
-        <h3 align="center">AI Image Generator</h3>
-        <div align="center">
-          <a href="https://github.com/SaintFore/ai-image-gen" target="_blank">
-            <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=SaintFore&repo=ai-image-gen&theme=react&hide_border=true" alt="AI Image Generator"/>
-          </a>
-          <p><strong>Python, TensorFlow, Flask</strong> - Web application that uses deep learning to generate images from text descriptions.</p>
-        </div>
-      </td>
-      <td width="50%">
-        <h3 align="center">Personal Finance Tracker</h3>
-        <div align="center">
-          <a href="https://github.com/SaintFore/finance-tracker" target="_blank">
-            <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=SaintFore&repo=finance-tracker&theme=react&hide_border=true" alt="Personal Finance Tracker"/>
-          </a>
-          <p><strong>Next.js, TypeScript, Prisma</strong> - Full-stack application for tracking expenses and visualizing financial habits.</p>
-        </div>
-      </td>
-    </tr>
+   
   </table>
   
   <a href="https://github.com/SaintFore?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-View%20All%20Repos-70A4FC?style=for-the-badge&logo=github&logoColor=white"/></a>
