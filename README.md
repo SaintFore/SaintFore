@@ -96,21 +96,21 @@
   <table>
     <tr>
       <td width="50%">
-        <h3 align="center">Coursera Scholarship Generator</h3>
+        <h3 align="center">Tool for anki</h3>
         <div align="center">
-          <a href="https://github.com/SaintFore/Coursera-Scholarship" target="_blank">
-            <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=SaintFore&repo=Coursera-Scholarship&theme=react&hide_border=true" alt="Coursera Scholarship Generator"/>
+          <a href="https://github.com/SaintFore/tool_for_anki" target="_blank">
+            <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=SaintFore&repo=tool_for_anki&theme=react&hide_border=true" alt="tool_for_anki"/>
           </a>
-          <p><strong>Python, Google Gemini API</strong> - AI tool that generates personalized scholarship application essays for Coursera courses.</p>
+          <p>A tool can normalize the obsidian markdown file that suit the obsidian extension <strong> obsidian to anki </strong>. </p>
         </div>
       </td>
       <td width="50%">
         <h3 align="center">BlogEt</h3>
         <div align="center">
-          <a href="https://github.com/SaintFore/BlogEt" target="_blank">
-            <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=SaintFore&repo=BlogEt&theme=react&hide_border=true" alt="BlogEt"/>
+          <a href="https://github.com/SaintFore/yuketang_crawler" target="_blank">
+            <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=SaintFore&repo=yuketang_crawler&theme=react&hide_border=true" alt="BlogEt"/>
           </a>
-          <p><strong>React Native, IoT, Firebase</strong> - Cross-platform app for controlling smart home devices with voice commands and automation.</p>
+          <p>A tool to simplize the solution to yuketang.</p>
         </div>
       </td>
     </tr>
