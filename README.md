@@ -96,27 +96,27 @@
   <table>
     <tr>
       <td width="50%">
-        <h3 align="center">Tool for anki</h3>
+        <h3 align="center">LeetCodeCLI</h3>
         <div align="center">
-          <a href="https://github.com/SaintFore/tool_for_anki" target="_blank">
-            <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=SaintFore&repo=tool_for_anki&theme=react&hide_border=true" alt="tool_for_anki"/>
+          <a href="https://github.com/SaintFore/LeetCodeCLI" target="_blank">
+            <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=SaintFore&repo=LeetCodeCLI&theme=react&hide_border=true" alt="LeetCodeCLI"/>
           </a>
-          <p>A tool can normalize the obsidian markdown file that suit the obsidian extension <strong> obsidian to anki </strong>. </p>
+          <p>A CLI tool to help you practice LeetCode with FSRS algorithm.</p>
         </div>
       </td>
       <td width="50%">
-        <h3 align="center">BlogEt</h3>
+        <h3 align="center">ComfyUIAutoTool</h3>
         <div align="center">
-          <a href="https://github.com/SaintFore/yuketang_crawler" target="_blank">
-            <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=SaintFore&repo=yuketang_crawler&theme=react&hide_border=true" alt="BlogEt"/>
+          <a href="https://github.com/SaintFore/ComfyUIAutoTool" target="_blank">
+            <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=SaintFore&repo=ComfyUIAutoTool&theme=react&hide_border=true" alt="ComfyUIAutoTool"/>
           </a>
-          <p>A tool to simplize the solution to yuketang.</p>
+          <p>A CLI tool to batch generate images with ComfyUI and enrich prompts with Gemini.</p>
         </div>
       </td>
     </tr>
-   
+
   </table>
-  
+
   <a href="https://github.com/SaintFore?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-View%20All%20Repos-70A4FC?style=for-the-badge&logo=github&logoColor=white"/></a>
 </div> 
 
