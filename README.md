@@ -114,7 +114,46 @@
         </div>
       </td>
     </tr>
-
+    <tr>
+      <td width="50%">
+        <h3 align="center">AskMyDocs</h3>
+        <div align="center">
+          <a href="https://github.com/SaintFore/AskMyDocs" target="_blank">
+            <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=SaintFore&repo=AskMyDocs&theme=react&hide_border=true" alt="AskMyDocs"/>
+          </a>
+          <p>A local knowledge base Q&A system based on LangChain.</p>
+        </div>
+      </td>
+      <td width="50%">
+        <h3 align="center">soleil-thoughts</h3>
+        <div align="center">
+          <a href="https://github.com/SaintFore/soleil-thoughts" target="_blank">
+            <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=SaintFore&repo=soleil-thoughts&theme=react&hide_border=true" alt="soleil-thoughts"/>
+          </a>
+          <p>My digital garden, built with Quartz.</p>
+        </div>
+      </td>
+    </tr>
+    <tr>
+      <td width="50%">
+        <h3 align="center">VirtualPet</h3>
+        <div align="center">
+          <a href="https://github.com/SaintFore/VirtualPet" target="_blank">
+            <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=SaintFore&repo=VirtualPet&theme=react&hide_border=true" alt="VirtualPet"/>
+          </a>
+          <p>A virtual pet application written in Go, with both CLI and web interface.</p>
+        </div>
+      </td>
+      <td width="50%">
+        <h3 align="center">CoinWatcher</h3>
+        <div align="center">
+          <a href="https://github.com/SaintFore/CoinWatcher" target="_blank">
+            <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=SaintFore&repo=CoinWatcher&theme=react&hide_border=true" alt="CoinWatcher"/>
+          </a>
+          <p>A cryptocurrency price monitoring application built with Streamlit.</p>
+        </div>
+      </td>
+    </tr>
   </table>
 
   <a href="https://github.com/SaintFore?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-View%20All%20Repos-70A4FC?style=for-the-badge&logo=github&logoColor=white"/></a>
