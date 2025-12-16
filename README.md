@@ -180,7 +180,7 @@
 <br/>
 
 <div align="center">
-  <img src="https://github.com/SaintFore/GitHubSNK/blob/output/github-snake-dark.svg"/>
+  <img src="https://github.com/SaintFore/GitHubSNK/blob/output/github-snake.svg"/>
 </div>
 
 
