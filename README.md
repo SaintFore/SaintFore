@@ -1,189 +1,121 @@
-<!-- 顶部动画 banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,27,30&height=300&section=header&text=Merlin&desc=道德主义%20%7C%20永恒回归%20%7C%20August&animation=fadeIn&fontColor=fff&fontSize=90&fontAlignY=30&descSize=18&descAlignY=50" alt="header">
-
-<!-- 个性化介绍 -->
+<!-- 顶部动画 Banner -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=30&duration=3000&pause=1000&color=70A4FC&center=true&vCenter=true&multiline=true&random=false&width=600&height=100&lines=Hello!+Have+a+Good+Day;Dream+Nerver+End" alt="Typing SVG" />
-  
-  <br>
-  
-  <!-- 社交徽章 -->
-  <div>
-    <a href="https://github.com/SaintFore"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github" alt="GitHub"></a>
-    <a href="https://blog.csdn.net/soleiltree"><img src="https://img.shields.io/badge/CSDN-c32136?style=for-the-badge&logo=c&logoColor=white" alt="CSDN"></a>
-    <a href="mailto:forevergoodforest@outlook.com"><img src="https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-    <a href="https://soleil-thoughts.vercel.app/"><img src="https://img.shields.io/badge/Website-3b5998?style=for-the-badge&logo=safari&logoColor=white" alt="MyOwnWebsite"></a>
-  </div>
-
-  <!-- 访问统计 -->
-  <img src="https://komarev.com/ghpvc/?username=SaintFore&style=for-the-badge&color=70A4FC&label=PROFILE+VIEWS" alt="profile views">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2387,50:E94057,100:F27121&height=300&section=header&text=Merlin&desc=Code%20Weaver%20|%20Dreamer%20|%20Creator&animation=fadeIn&fontColor=ffffff&fontSize=90&fontAlignY=35&descSize=20&descAlignY=60" width="100%" alt="header" />
 </div>
 
-<!-- 关于我 -->
-<h2 align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> About Me
-</h2>
+<!-- 动态打字欢迎语 -->
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=600&size=32&duration=3000&pause=1000&color=F27121&center=true&vCenter=true&width=600&height=70&lines=Hello,+World!;Welcome+to+my+digital+space;Let's+build+the+future" alt="Typing SVG" />
+  </a>
+</div>
 
-      
-<table align="center">
+<!-- 社交徽章 -->
+<div align="center">
+  <a href="https://github.com/SaintFore">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
+  <a href="https://blog.csdn.net/soleiltree">
+    <img src="https://img.shields.io/badge/CSDN-FC5531?style=for-the-badge&logo=csdn&logoColor=white" alt="CSDN">
+  </a>
+  <a href="mailto:forevergoodforest@outlook.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+  <a href="https://soleil-thoughts.vercel.app/">
+    <img src="https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website">
+  </a>
+</div>
+<br/>
+
+<!-- 年度目标 -->
+<table align="center" border="0" cellspacing="0" cellpadding="0">
   <tr>
-    <td valign="top" width="60%">
-
-### 🎯 Goals for 2025
-- Read 100+ books
-- Build a personal AI assistant
-- Master code
-- Write technical articles daily
-      
+    <td width="55%" valign="top">
+      <h2 align="center">⚡ About Me</h2>
+      <br>
+      <blockquote>
+        <p><i>"The best way to predict the future is to invent it."</i></p>
+      </blockquote>
+      <p>
+        I am a passionate developer who loves to explore the boundaries of technology. From AI to low-level systems, I enjoy building tools that solve real-world problems.
+      </p>
+      <h3 align="left">🎯 Mission 2026</h3>
+      <ul align="left">
+        <li>📚 <b>Read:</b> 120+ Technical & Sci-Fi Books</li>
+        <li>✍️ <b>Share:</b> Daily Technical Writing</li>
+      </ul>
     </td>
-    <td valign="top" width="40%">
-      <div align="center">
-        <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250" alt="Coding GIF">
-      </div>
+    <td width="45%" valign="center" align="center">
+       <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="90%" style="border-radius: 10px;" alt="Coding GIF">
     </td>
   </tr>
 </table>
 
 <!-- 技能矩阵 -->
 <h2 align="center">🛠️ Tech Arsenal</h2>
-
-<table align="center">
-  <tr>
-    <td align="center">
-      <strong>Languages</strong>
-      <div>
-        <img src="https://skillicons.dev/icons?i=python,js,ts,cpp,java&perline=5" alt="Languages" />
-      </div>
-    </td>
-    <td align="center">
-      <strong>Frontend</strong>
-      <div>
-        <img src="https://skillicons.dev/icons?i=react,vue,angular,next,tailwind&perline=5" alt="Frontend" />
-      </div>
-    </td>
-    <td align="center">
-      <strong>Backend</strong>
-      <div>
-        <img src="https://skillicons.dev/icons?i=nodejs,django,flask,spring,express&perline=5" alt="Backend" />
-      </div>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <strong>DevOps & Cloud</strong>
-      <div>
-        <img src="https://skillicons.dev/icons?i=aws,gcp,azure,docker,kubernetes&perline=5" alt="DevOps" />
-      </div>
-    </td>
-    <td align="center">
-      <strong>Databases</strong>
-      <div>
-        <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,redis,firebase&perline=5" alt="Databases" />
-      </div>
-    </td>
-    <td align="center">
-      <strong>Tools</strong>
-      <div>
-        <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,ai&perline=5" alt="Tools" />
-      </div>
-    </td>
-  </tr>
-</table>
-
-<h2 align="center">🏆 Featured Projects</h2>
-
 <div align="center">
-  <table>
-    <tr>
-      <td width="50%">
-        <h3 align="center">LeetCodeCLI</h3>
-        <div align="center">
-          <a href="https://github.com/SaintFore/LeetCodeCLI" target="_blank">
-            <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=SaintFore&repo=LeetCodeCLI&theme=react&hide_border=true" alt="LeetCodeCLI"/>
-          </a>
-          <p>A CLI tool to help you practice LeetCode with FSRS algorithm.</p>
-        </div>
-      </td>
-      <td width="50%">
-        <h3 align="center">ComfyUIAutoTool</h3>
-        <div align="center">
-          <a href="https://github.com/SaintFore/ComfyUIAutoTool" target="_blank">
-            <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=SaintFore&repo=ComfyUIAutoTool&theme=react&hide_border=true" alt="ComfyUIAutoTool"/>
-          </a>
-          <p>A CLI tool to batch generate images with ComfyUI and enrich prompts with Gemini.</p>
-        </div>
-      </td>
-    </tr>
-    <tr>
-      <td width="50%">
-        <h3 align="center">AskMyDocs</h3>
-        <div align="center">
-          <a href="https://github.com/SaintFore/AskMyDocs" target="_blank">
-            <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=SaintFore&repo=AskMyDocs&theme=react&hide_border=true" alt="AskMyDocs"/>
-          </a>
-          <p>A local knowledge base Q&A system based on LangChain.</p>
-        </div>
-      </td>
-      <td width="50%">
-        <h3 align="center">soleil-thoughts</h3>
-        <div align="center">
-          <a href="https://github.com/SaintFore/soleil-thoughts" target="_blank">
-            <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=SaintFore&repo=soleil-thoughts&theme=react&hide_border=true" alt="soleil-thoughts"/>
-          </a>
-          <p>My digital garden, built with Quartz.</p>
-        </div>
-      </td>
-    </tr>
-    <tr>
-      <td width="50%">
-        <h3 align="center">VirtualPet</h3>
-        <div align="center">
-          <a href="https://github.com/SaintFore/VirtualPet" target="_blank">
-            <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=SaintFore&repo=VirtualPet&theme=react&hide_border=true" alt="VirtualPet"/>
-          </a>
-          <p>A virtual pet application written in Go, with both CLI and web interface.</p>
-        </div>
-      </td>
-      <td width="50%">
-        <h3 align="center">CoinWatcher</h3>
-        <div align="center">
-          <a href="https://github.com/SaintFore/CoinWatcher" target="_blank">
-            <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=SaintFore&repo=CoinWatcher&theme=react&hide_border=true" alt="CoinWatcher"/>
-          </a>
-          <p>A cryptocurrency price monitoring application built with Streamlit.</p>
-        </div>
-      </td>
-    </tr>
-  </table>
-
-  <a href="https://github.com/SaintFore?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-View%20All%20Repos-70A4FC?style=for-the-badge&logo=github&logoColor=white"/></a>
-</div> 
-
-<!-- GitHub 统计 -->
-<h2 align="center">📊 GitHub Statistics</h2>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaintFore&layout=compact&theme=tokyonight&hide_title=true&hide_border=true&bg_color=1A1B27&title_color=70A4FC"  width="45%" alt="top languages"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=SaintFore&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1A1B27&icon_color=70A4FC&title_color=70A4FC"  width="48%" alt="GitHub Stats"/>
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=SaintFore" width="93%" alt="GitHub Streak" />
-</div>
-
-</br>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SaintFore&custom_title=Merlin's%20Contribution%20Graph&bg_color=1A1B27&color=FFFFFF&line=70A4FC&point=FFFFFF&hide_border=true" width="94%" alt="activity graph"/>
+  <img src="https://skillicons.dev/icons?i=python,go,cpp,c,rust,js,ts,java&perline=8&theme=dark" alt="Languages" /><br>
+  <img src="https://skillicons.dev/icons?i=react,vue,next,tailwind,nodejs,express,django,flask&perline=8&theme=dark" alt="Web Stack" /><br>
+  <img src="https://skillicons.dev/icons?i=docker,k8s,aws,gcp,linux,git,github,vscode,vim&perline=9&theme=dark" alt="DevOps & Tools" />
 </div>
 
 <br/>
 
+<!-- 精选项目 -->
+<h2 align="center">🚀 Featured Projects</h2>
 <div align="center">
-  <img src="https://github.com/SaintFore/GitHubSNK/blob/output/github-snake.svg"/>
+  <table>
+    <tr>
+      <td width="50%" align="center">
+        <a href="https://github.com/SaintFore/LeetCodeCLI">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=SaintFore&repo=LeetCodeCLI&theme=radical&hide_border=true&bg_color=0D1117" alt="LeetCodeCLI"/>
+        </a>
+      </td>
+      <td width="50%" align="center">
+        <a href="https://github.com/SaintFore/ComfyUIAutoTool">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=SaintFore&repo=ComfyUIAutoTool&theme=radical&hide_border=true&bg_color=0D1117" alt="ComfyUIAutoTool"/>
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td width="50%" align="center">
+        <a href="https://github.com/SaintFore/AskMyDocs">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=SaintFore&repo=AskMyDocs&theme=radical&hide_border=true&bg_color=0D1117" alt="AskMyDocs"/>
+        </a>
+      </td>
+      <td width="50%" align="center">
+        <a href="https://github.com/SaintFore/VirtualPet">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=SaintFore&repo=VirtualPet&theme=radical&hide_border=true&bg_color=0D1117" alt="VirtualPet"/>
+        </a>
+      </td>
+    </tr>
+  </table>
+  <br>
+  <a href="https://github.com/SaintFore?tab=repositories">
+    <img src="https://img.shields.io/badge/Explore%20All%20Repositories-F27121?style=for-the-badge&logo=rocket&logoColor=white" alt="All Repos"/>
+  </a>
 </div>
 
+<br/>
 
+<!-- GitHub 数据统计 -->
+<h2 align="center">📊 The Data</h2>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SaintFore&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&icon_color=F27121&title_color=E94057" width="48%" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaintFore&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=E94057" width="41%" alt="Top Langs"/>
+</div>
+<br>
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=SaintFore&theme=radical&hide_border=true&background=0D1117&fire=F27121&currStreakLabel=F27121" width="90%" alt="Streak" />
+</div>
 
-<!-- 结束 Footer -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,27,30&height=150&section=footer&text=Thanks%20for%20visiting!&animation=fadeIn&fontColor=fff&fontSize=30&fontAlignY=70" alt="footer">
+<!-- 贪吃蛇动画 -->
+<h2 align="center">🐍 Contribution Snake</h2>
+<div align="center">
+  <img src="https://github.com/SaintFore/GitHubSNK/blob/output/github-snake.svg" width="100%"/>
+</div>
+
+<!-- 底部 Wave -->
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2387,50:E94057,100:F27121&height=120&section=footer&animation=fadeIn" alt="footer">
+</div>
