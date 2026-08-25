@@ -54,9 +54,8 @@
 <!-- 技能矩阵 -->
 <h2 align="center">🛠️ Tech Arsenal</h2>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,go,cpp,c,rust,js,ts,java&perline=8&theme=dark" alt="Languages" /><br>
-  <img src="https://skillicons.dev/icons?i=react,vue,next,tailwind,nodejs,express,django,flask&perline=8&theme=dark" alt="Web Stack" /><br>
-  <img src="https://skillicons.dev/icons?i=docker,k8s,aws,gcp,linux,git,github,vscode,vim&perline=9&theme=dark" alt="DevOps & Tools" />
+  <img src="https://skillicons.dev/icons?i=python,go,rust,cpp,ts&perline=5&theme=dark" alt="Languages" /><br>
+  <img src="https://skillicons.dev/icons?i=react,tailwind,docker,linux,git,github,arch,neovim,vscode&perline=9&theme=dark" alt="Frameworks & Tools" />
 </div>
 
 <br/>
@@ -67,25 +66,25 @@
   <table>
     <tr>
       <td width="50%" align="center">
-        <a href="https://github.com/SaintFore/LeetCodeCLI">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=SaintFore&repo=LeetCodeCLI&theme=radical&hide_border=true&bg_color=0D1117" alt="LeetCodeCLI"/>
+        <a href="https://github.com/SaintFore/micro-dl">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=SaintFore&repo=micro-dl&theme=radical&hide_border=true&bg_color=0D1117" alt="micro-dl"/>
         </a>
       </td>
       <td width="50%" align="center">
-        <a href="https://github.com/SaintFore/ComfyUIAutoTool">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=SaintFore&repo=ComfyUIAutoTool&theme=radical&hide_border=true&bg_color=0D1117" alt="ComfyUIAutoTool"/>
+        <a href="https://github.com/SaintFore/pomotui">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=SaintFore&repo=pomotui&theme=radical&hide_border=true&bg_color=0D1117" alt="Pomotui"/>
         </a>
       </td>
     </tr>
     <tr>
       <td width="50%" align="center">
-        <a href="https://github.com/SaintFore/AskMyDocs">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=SaintFore&repo=AskMyDocs&theme=radical&hide_border=true&bg_color=0D1117" alt="AskMyDocs"/>
+        <a href="https://github.com/SaintFore/pi-obsidian">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=SaintFore&repo=pi-obsidian&theme=radical&hide_border=true&bg_color=0D1117" alt="pi-obsidian"/>
         </a>
       </td>
       <td width="50%" align="center">
-        <a href="https://github.com/SaintFore/VirtualPet">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=SaintFore&repo=VirtualPet&theme=radical&hide_border=true&bg_color=0D1117" alt="VirtualPet"/>
+        <a href="https://github.com/SaintFore/GoodArchSetting">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=SaintFore&repo=GoodArchSetting&theme=radical&hide_border=true&bg_color=0D1117" alt="GoodArchSetting"/>
         </a>
       </td>
     </tr>
