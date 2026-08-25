@@ -65,27 +65,27 @@
 <div align="center">
   <table>
     <tr>
-      <td width="50%" align="center">
-        <a href="https://github.com/SaintFore/micro-dl">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=SaintFore&repo=micro-dl&theme=radical&hide_border=true&bg_color=0D1117" alt="micro-dl"/>
-        </a>
+      <td width="50%" valign="top">
+        <h3 align="center">🧠 <a href="https://github.com/SaintFore/micro-dl">micro-dl</a></h3>
+        <p>A small deep learning framework built from scratch with NumPy and CuPy backends.</p>
+        <p align="center"><code>Python</code> <code>NumPy</code> <code>CuPy</code> <code>Autograd</code></p>
       </td>
-      <td width="50%" align="center">
-        <a href="https://github.com/SaintFore/pomotui">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=SaintFore&repo=pomotui&theme=radical&hide_border=true&bg_color=0D1117" alt="Pomotui"/>
-        </a>
+      <td width="50%" valign="top">
+        <h3 align="center">⏱️ <a href="https://github.com/SaintFore/pomotui">Pomotui</a></h3>
+        <p>A persistent, terminal-first Pomodoro system with TUI, CLI, and Waybar frontends.</p>
+        <p align="center"><code>Rust</code> <code>Ratatui</code> <code>Linux</code> <code>macOS</code></p>
       </td>
     </tr>
     <tr>
-      <td width="50%" align="center">
-        <a href="https://github.com/SaintFore/pi-obsidian">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=SaintFore&repo=pi-obsidian&theme=radical&hide_border=true&bg_color=0D1117" alt="pi-obsidian"/>
-        </a>
+      <td width="50%" valign="top">
+        <h3 align="center">🗂️ <a href="https://github.com/SaintFore/pi-obsidian">pi-obsidian</a></h3>
+        <p>Obsidian-oriented wiki and blog workflows for the Pi coding agent.</p>
+        <p align="center"><code>TypeScript</code> <code>Obsidian</code> <code>AI Agents</code></p>
       </td>
-      <td width="50%" align="center">
-        <a href="https://github.com/SaintFore/GoodArchSetting">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=SaintFore&repo=GoodArchSetting&theme=radical&hide_border=true&bg_color=0D1117" alt="GoodArchSetting"/>
-        </a>
+      <td width="50%" valign="top">
+        <h3 align="center">🐧 <a href="https://github.com/SaintFore/GoodArchSetting">GoodArchSetting</a></h3>
+        <p>Personal Arch Linux dotfiles for a Niri-based Wayland workstation.</p>
+        <p align="center"><code>Arch Linux</code> <code>Niri</code> <code>Lua</code> <code>GNU Stow</code></p>
       </td>
     </tr>
   </table>
@@ -96,17 +96,6 @@
 </div>
 
 <br/>
-
-<!-- GitHub 数据统计 -->
-<h2 align="center">📊 The Data</h2>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SaintFore&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&icon_color=F27121&title_color=E94057" width="48%" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaintFore&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=E94057" width="41%" alt="Top Langs"/>
-</div>
-<br>
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=SaintFore&theme=radical&hide_border=true&background=0D1117&fire=F27121&currStreakLabel=F27121" width="90%" alt="Streak" />
-</div>
 
 <!-- 贪吃蛇动画 -->
 <h2 align="center">🐍 Contribution Snake</h2>
